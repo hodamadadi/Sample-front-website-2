@@ -1,0 +1,14 @@
+//custom variable
+$green: #f13611;
+$dark: #1f1f1fb3;
+$secondary: #1616166f;
+$primary: #bdbfc3;
+
+$line-height: 1px;
+
+$danger: $green;
+$dark: $dark;
+$secondary: $secondary;
+$light-gray: $primary;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
